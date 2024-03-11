@@ -1,0 +1,12 @@
+{
+  "subjects": [
+    { "year": "II", "sem": "I", "questionBank": "Operating System", "manuals": "Click here" },
+    { "year": "II", "sem": "I", "questionBank": "Java Programming", "manuals": "Click here" },
+    { "year": "II", "sem": "I", "questionBank": "Object Oriented Software Engineering", "manuals": "Click here" },
+    { "year": "II", "sem": "I", "questionBank": "Discrete Mathematics", "manuals": "Click here" },
+    { "year": "II", "sem": "I", "questionBank": "Computer Networks", "manuals": "Click here" },
+    { "year": "II", "sem": "I", "questionBank": "Financial Accounting and Management", "manuals": "Click here" },
+    { "year": "II", "sem": "I", "questionBank": "Design And Analysis Of Algorithms", "manuals": "Click here" },
+    { "year": "II", "sem": "I", "questionBank": "Database Management System", "manuals": "Click here" }
+  ]
+}
